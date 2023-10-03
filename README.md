@@ -2,7 +2,12 @@
 It's a simple markup language, still in development
 
 # Version
-version: 0.1
+> 0.1
+
+# How to use
+```py
+import based
+```
 
 # Syntax
 ```
